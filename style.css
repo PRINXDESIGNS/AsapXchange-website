@@ -179,7 +179,7 @@ body{
     margin-right: 13rem;
     transition: 0.5s;
 }
-.right-list li a, .footer-con p a{
+.right-list li a, .footer-con p a, .right-list li a{
     color: white;
     font-size: 15px;
     transition: 0.5s;
@@ -192,7 +192,9 @@ body{
     font-size: 20px;
     font-weight: bold;
 }
-
+.images{
+    margin: 0;
+}
 
 
 
