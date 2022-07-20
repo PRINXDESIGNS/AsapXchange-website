@@ -173,13 +173,13 @@ body{
     display: flex;
     margin-bottom: 3rem;
 }
-.left-list li a, .mid-list li a{
+.left-list li a, .mid-list li a, .right-list li a{
     color: white;
     font-size: 15px;
     margin-right: 13rem;
     transition: 0.5s;
 }
-.right-list li a, .footer-con p a, .right-list li a{
+.right-list li a, .footer-con p a{
     color: white;
     font-size: 15px;
     transition: 0.5s;
